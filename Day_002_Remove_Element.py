@@ -8,7 +8,7 @@ Return k"""
 
 from typing import List
 class Solution:
-    def removeElement(self, nums: List[int], val):
+    def removeElement(self, nums, val):
         i = 0
         n = len(nums)
         while i <= n and i < len(nums):
