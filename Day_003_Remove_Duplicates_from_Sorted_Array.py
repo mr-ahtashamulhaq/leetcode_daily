@@ -6,7 +6,7 @@ Consider the number of unique elements in nums to be k. After removing duplicate
 The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
 """
 class Solution:
-    def removeDuplicates(self, nums:List[int]):
+    def removeDuplicates(self, nums:list[int]):
         n = len(nums)
         i = 0
         j = 1
