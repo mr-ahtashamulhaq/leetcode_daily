@@ -1,8 +1,5 @@
-from typing import List, Optional
-
-print(  )
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    def threeSum(self, nums):
         key_dict = {}
         answer = []
         for i in range(len(nums)):
