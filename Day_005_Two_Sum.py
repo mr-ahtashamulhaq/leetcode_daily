@@ -15,3 +15,5 @@ obj = Solution()
 nums = [2, 7, 11, 15]
 target = 9
 print(obj.twoSum(nums, target))
+
+# Output: [1, 0]
