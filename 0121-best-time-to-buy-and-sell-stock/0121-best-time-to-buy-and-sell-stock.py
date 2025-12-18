@@ -4,9 +4,12 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        min_price = float("inf")
-        max_profit = 0
-        for i in range(len(prices)):
-            min_price = min(min_price, prices[i])
-            max_profit = max(max_profit , prices[i] - min_price)
-        return max_profit
+        mini = prices[0]
+        maxProfit = 0
+        
+        for i in range(1, len(prices)):
+            if ((prices[i] - mini ) > maxProfit ):
+                maxProfit = max(prices[i]-mini , maxProfit)
+            mini = min(mini, prices[i])
+        return maxProfit
+
