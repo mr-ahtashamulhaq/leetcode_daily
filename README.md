@@ -1,4 +1,3 @@
-```md
 # 🚀 LeetCode Daily Challenge 🧠🔥
 
 Welcome to **LeetCode Daily**  
@@ -99,4 +98,3 @@ If this repo helps you in any way
 
 ### Let’s keep shipping solutions 🚀  
 ### One day. One problem. Every day. 🧠⚡🔥
-```
