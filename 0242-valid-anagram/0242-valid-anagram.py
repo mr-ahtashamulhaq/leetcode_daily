@@ -1,21 +1,15 @@
-class Solution(object):
+class Solution:
     def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        characters = {}
-        for i in s:
-            characters[i] = 1 + characters.get(i, 0)
-
-        for j in t:
-            if j not in characters:
-                return False
-            characters[j] -= 1
-            if characters[j] == 0:
-                characters.pop(j)
-
-        if len(characters) != 0:
+        if len(s) != len(t):
             return False
+
+        freq = {}
+        for char in s:
+            freq[char] = freq.get(char, 0) + 1
+
+        for char in t:
+            if char not in freq or freq[char] == 0:
+                return False
+            freq[char] -= 1
+
         return True
