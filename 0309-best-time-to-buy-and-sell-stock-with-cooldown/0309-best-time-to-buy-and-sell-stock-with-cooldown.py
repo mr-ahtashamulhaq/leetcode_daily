@@ -24,7 +24,7 @@ class Solution:
         dp[index][buy_choice] = profit
         return dp[index][buy_choice]
 
-    def maxProfit(self, prices) -> int:
+    def maxProfit(self, prices):
         n = len(prices)
 
         # DP will store dp[index][buy_choice] --> at this index with this buy value what would be highest profit
