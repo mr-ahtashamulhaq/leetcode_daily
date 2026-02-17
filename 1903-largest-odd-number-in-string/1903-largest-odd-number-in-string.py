@@ -4,12 +4,8 @@ class Solution(object):
         :type num: str
         :rtype: str
         """
-        temp = int(num)
-        while True:
-            if temp%2 != 0:
-                return str(temp)
-            elif temp == 0:
-                return ""
-            else:
-                temp = temp / 10
+        for i in range(len(num)-1,-1,-1):
+            if int(num[i])%2 == 1:
+                return num[:i+1]
+        return ""
         
