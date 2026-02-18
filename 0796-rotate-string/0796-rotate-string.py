@@ -1,12 +1,12 @@
 class Solution:
+    # OPTIMAL
+    # TC --> O (2*N)
+    # SC --> O (2*N)
     def rotateString(self, s: str, goal: str) -> bool:
-        n = len(s)
-        rotate = s
-
-        for i in range(n):
-            if rotate == goal:
-                return True
-            else:
-                rotate = rotate[-1] + rotate[:-1]
-
+        if len(s) != len(goal) :
+            return False
+            
+        double_s = s + s
+        if goal in double_s:
+            return True
         return False
