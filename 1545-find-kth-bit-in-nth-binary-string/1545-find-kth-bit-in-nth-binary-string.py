@@ -8,7 +8,7 @@ class Solution:
         
         if k == mid:
             return '1'
-        if k < mid:
+        if k <= mid:
             return self.findKthBit(n - 1, k)
         
         c = self.findKthBit(n -1 , length - k + 1)
