@@ -98,3 +98,18 @@ If this repo helps you in any way
 
 ### Let’s keep shipping solutions 🚀  
 ### One day. One problem. Every day. 🧠⚡🔥
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+<!---LeetCode Topics End-->
