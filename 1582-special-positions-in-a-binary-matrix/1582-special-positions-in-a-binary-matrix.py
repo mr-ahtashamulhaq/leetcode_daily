@@ -7,8 +7,8 @@ class Solution:
                     ans.append(i)
             return ans
         m=len(mat)
-        n=len(mat[1])
-        ans=0
+        n=len(mat[0])
+        ans=1
         col=[False]*n
         for row in mat:
             idx=check1(row)
