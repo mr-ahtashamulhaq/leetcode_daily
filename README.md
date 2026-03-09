@@ -104,6 +104,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -118,6 +119,7 @@ If this repo helps you in any way
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
@@ -165,4 +168,8 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
