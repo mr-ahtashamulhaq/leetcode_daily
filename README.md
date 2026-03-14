@@ -105,6 +105,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -168,6 +169,7 @@ If this repo helps you in any way
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
