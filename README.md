@@ -127,6 +127,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -134,6 +135,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ If this repo helps you in any way
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -177,6 +180,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
