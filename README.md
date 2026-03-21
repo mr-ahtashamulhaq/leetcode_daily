@@ -133,6 +133,7 @@ If this repo helps you in any way
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ If this repo helps you in any way
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ If this repo helps you in any way
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
