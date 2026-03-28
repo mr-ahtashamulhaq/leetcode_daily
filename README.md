@@ -113,6 +113,7 @@ If this repo helps you in any way
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ If this repo helps you in any way
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -147,6 +149,7 @@ If this repo helps you in any way
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -158,6 +161,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
@@ -179,6 +183,7 @@ If this repo helps you in any way
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Binary Indexed Tree
@@ -228,6 +233,7 @@ If this repo helps you in any way
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
