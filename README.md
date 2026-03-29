@@ -114,6 +114,7 @@ If this repo helps you in any way
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
