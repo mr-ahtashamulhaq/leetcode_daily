@@ -129,6 +129,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
+| [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -199,6 +200,7 @@ If this repo helps you in any way
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
@@ -225,6 +227,7 @@ If this repo helps you in any way
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
