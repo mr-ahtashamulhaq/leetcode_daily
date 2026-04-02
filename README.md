@@ -213,6 +213,7 @@ If this repo helps you in any way
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -263,4 +264,8 @@ If this repo helps you in any way
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
