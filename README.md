@@ -103,6 +103,7 @@ If this repo helps you in any way
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0165-compare-version-numbers](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0165-compare-version-numbers/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -175,6 +176,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
+| [0165-compare-version-numbers](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0165-compare-version-numbers/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
