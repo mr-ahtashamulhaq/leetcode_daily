@@ -272,4 +272,16 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
