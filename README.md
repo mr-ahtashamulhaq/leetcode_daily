@@ -234,6 +234,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
