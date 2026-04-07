@@ -132,6 +132,7 @@ If this repo helps you in any way
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -238,6 +239,7 @@ If this repo helps you in any way
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
