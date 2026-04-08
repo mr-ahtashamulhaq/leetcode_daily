@@ -123,6 +123,7 @@ If this repo helps you in any way
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -133,6 +134,7 @@ If this repo helps you in any way
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -219,6 +221,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+| [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
