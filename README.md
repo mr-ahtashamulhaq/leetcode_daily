@@ -132,6 +132,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
@@ -207,6 +208,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
