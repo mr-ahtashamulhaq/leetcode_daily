@@ -132,6 +132,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [0018-4sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
@@ -207,6 +208,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -221,6 +223,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
@@ -278,6 +281,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +294,8 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
