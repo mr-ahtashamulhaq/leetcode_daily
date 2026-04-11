@@ -223,6 +223,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
@@ -280,6 +281,7 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +294,8 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
