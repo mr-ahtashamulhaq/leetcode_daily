@@ -150,6 +150,7 @@ If this repo helps you in any way
 | [3548-equal-sum-grid-partition-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3866-first-unique-even-element](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3866-first-unique-even-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@ If this repo helps you in any way
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3866-first-unique-even-element](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3866-first-unique-even-element/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,4 +300,8 @@ If this repo helps you in any way
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3866-first-unique-even-element](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/3866-first-unique-even-element/) | Easy |
 <!---LeetCode Topics End-->
