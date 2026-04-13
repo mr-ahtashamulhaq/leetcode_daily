@@ -224,6 +224,7 @@ If this repo helps you in any way
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0735-asteroid-collision](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0735-asteroid-collision/) | Medium |
@@ -287,14 +288,17 @@ If this repo helps you in any way
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mr-ahtashamulhaq/leetcode_daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
