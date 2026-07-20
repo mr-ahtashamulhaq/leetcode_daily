@@ -3,13 +3,13 @@ class Solution:
         nums.sort()
         result = []
         n = len(nums)
+        
         for i in range(n):
-            if i!=0 and nums[i] == nums[i-1]:
-                print("Skipped for i = ", i)
+            if i != 0 and nums[i] == nums[i-1]:
                 continue
 
             for j in range(i+1, n):
-                if j>i+1 and nums[j] == nums[j-1]:
+                if j > i+1 and nums[j] == nums[j-1]:
                     continue
                 
                 k = j+1
